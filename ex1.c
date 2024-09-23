@@ -8,5 +8,5 @@ int main(){
     printf("Valor da largura: ");
     scanf("%f", &largura);
     area =comprimento*largura;
-    printf("area: %.2f",area);
+    
 }
